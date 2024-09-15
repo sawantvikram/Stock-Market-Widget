@@ -1,0 +1,1508 @@
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 10, in <module>
+    with open('closing_price.txt', 'r') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'closing_price.txt'
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+{'NAM-INDIA': 3464.5, 'NTPC': 2851.1, 'PNB': 4958.76, 'IRFC': 3568.8, 'HAL': 9661.6, 'TATAMOTORS': 3259.65, 'TATATECH': 32085.0, 'total': 59849.41}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Wednesday 04 September 2024 04:46:23 AM IST - Starting Xvfb...
+Wednesday 04 September 2024 04:46:23 AM IST - Running stocks.py...
+{'NAM-INDIA': 3464.5, 'NTPC': 2851.1, 'PNB': 4958.76, 'IRFC': 3568.8, 'HAL': 9661.6, 'TATAMOTORS': 3259.65, 'TATATECH': 32085.0, 'total': 59849.41}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Wednesday 04 September 2024 04:47:14 AM IST - stocks.py completed.
+Wednesday 04 September 2024 10:19:57 AM IST - Starting Xvfb...
+Wednesday 04 September 2024 10:19:57 AM IST - Running stocks.py...
+Wednesday 04 September 2024 11:28:01 AM IST - Starting Xvfb...
+Wednesday 04 September 2024 11:28:01 AM IST - Running stocks.py...
+{'NAM-INDIA': 3464.5, 'NTPC': 2851.1, 'PNB': 4958.76, 'IRFC': 3568.8, 'HAL': 9661.6, 'TATAMOTORS': 3259.65, 'TATATECH': 32085.0, 'total': 59849.41}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Wednesday 04 September 2024 11:37:24 AM IST - stocks.py completed.
+Wednesday 04 September 2024 12:15:01 PM IST - Starting Xvfb...
+Wednesday 04 September 2024 12:15:01 PM IST - Running stocks.py...
+Wednesday 04 September 2024 01:15:01 PM IST - Starting Xvfb...
+Wednesday 04 September 2024 01:15:01 PM IST - Running stocks.py...
+{'NAM-INDIA': 3464.5, 'NTPC': 2851.1, 'PNB': 4958.76, 'IRFC': 3568.8, 'HAL': 9661.6, 'TATAMOTORS': 3259.65, 'TATATECH': 32085.0, 'total': 59849.41}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Wednesday 04 September 2024 01:23:19 PM IST - stocks.py completed.
+{'NAM-INDIA': 3464.5, 'NTPC': 2851.1, 'PNB': 4958.76, 'IRFC': 3568.8, 'HAL': 9661.6, 'TATAMOTORS': 3259.65, 'TATATECH': 32085.0, 'total': 59849.41}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Wednesday 04 September 2024 01:23:22 PM IST - stocks.py completed.
+Wednesday 04 September 2024 02:15:01 PM IST - Starting Xvfb...
+Wednesday 04 September 2024 02:15:01 PM IST - Running stocks.py...
+Wednesday 04 September 2024 03:30:01 PM IST - Starting Xvfb...
+Wednesday 04 September 2024 03:30:01 PM IST - Running stocks.py...
+{'NAM-INDIA': 3464.5, 'NTPC': 2851.1, 'PNB': 4958.76, 'IRFC': 3568.8, 'HAL': 9661.6, 'TATAMOTORS': 3259.65, 'TATATECH': 32085.0, 'total': 59849.41}
+Dictionary saved to file.
+Wednesday 04 September 2024 03:38:33 PM IST - stocks.py completed.
+{'NAM-INDIA': 3464.5, 'NTPC': 2851.1, 'PNB': 4958.76, 'IRFC': 3568.8, 'HAL': 9661.6, 'TATAMOTORS': 3259.65, 'TATATECH': 32085.0, 'total': 59849.41}
+Dictionary saved to file.
+Wednesday 04 September 2024 03:38:35 PM IST - stocks.py completed.
+Wednesday 04 September 2024 07:19:47 PM IST - Starting Xvfb...
+Wednesday 04 September 2024 07:19:47 PM IST - Running stocks.py...
+Thursday 05 September 2024 11:15:01 AM IST - Starting Xvfb...
+Thursday 05 September 2024 11:15:01 AM IST - Running stocks.py...
+{'NAM-INDIA': 3434.75, 'NTPC': 2840.95, 'PNB': 4874.05, 'IRFC': 3523.2, 'HAL': 9715.5, 'TATAMOTORS': 3226.65, 'TATATECH': 31671.0, 'total': 59286.1}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Thursday 05 September 2024 12:13:54 PM IST - stocks.py completed.
+Thursday 05 September 2024 12:15:01 PM IST - Starting Xvfb...
+Thursday 05 September 2024 12:15:01 PM IST - Running stocks.py...
+Thursday 05 September 2024 01:15:01 PM IST - Starting Xvfb...
+Thursday 05 September 2024 01:15:01 PM IST - Running stocks.py...
+Thursday 05 September 2024 02:15:01 PM IST - Starting Xvfb...
+Thursday 05 September 2024 02:15:01 PM IST - Running stocks.py...
+{'NAM-INDIA': 3434.75, 'NTPC': 2840.95, 'PNB': 4874.05, 'IRFC': 3523.2, 'HAL': 9715.5, 'TATAMOTORS': 3226.65, 'TATATECH': 31671.0, 'total': 59286.1}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Thursday 05 September 2024 02:18:33 PM IST - stocks.py completed.
+{'NAM-INDIA': 3434.75, 'NTPC': 2840.95, 'PNB': 4874.05, 'IRFC': 3523.2, 'HAL': 9715.5, 'TATAMOTORS': 3226.65, 'TATATECH': 31671.0, 'total': 59286.1}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Thursday 05 September 2024 02:18:41 PM IST - stocks.py completed.
+{'NAM-INDIA': 3434.75, 'NTPC': 2840.95, 'PNB': 4874.05, 'IRFC': 3523.2, 'HAL': 9715.5, 'TATAMOTORS': 3226.65, 'TATATECH': 31671.0, 'total': 59286.1}
+Dictionary saved to file.
+Thursday 05 September 2024 03:25:01 PM IST - stocks.py completed.
+Thursday 05 September 2024 03:30:01 PM IST - Starting Xvfb...
+Thursday 05 September 2024 03:30:01 PM IST - Running stocks.py...
+Friday 06 September 2024 01:23:32 AM IST - Starting Xvfb...
+Friday 06 September 2024 01:23:32 AM IST - Running stocks.py...
+{'NAM-INDIA': 3440.0, 'NTPC': 2834.65, 'PNB': 4887.38, 'IRFC': 3474.2, 'HAL': 9643.0, 'TATAMOTORS': 3221.1, 'TATATECH': 32521.5, 'total': 60021.83}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Friday 06 September 2024 01:23:41 AM IST - stocks.py completed.
+{'NAM-INDIA': 3440.0, 'NTPC': 2834.65, 'PNB': 4887.38, 'IRFC': 3474.2, 'HAL': 9643.0, 'TATAMOTORS': 3221.1, 'TATATECH': 32521.5, 'total': 60021.83}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Friday 06 September 2024 01:24:28 AM IST - stocks.py completed.
+Friday 06 September 2024 01:25:20 AM IST - Starting Xvfb...
+Friday 06 September 2024 01:25:20 AM IST - Running stocks.py...
+{'NAM-INDIA': 3440.0, 'NTPC': 2834.65, 'PNB': 4887.38, 'IRFC': 3474.2, 'HAL': 9643.0, 'TATAMOTORS': 3221.1, 'TATATECH': 32521.5, 'total': 60021.83}
+Dictionary saved to file.
+Friday 06 September 2024 01:26:13 AM IST - stocks.py completed.
+Friday 06 September 2024 01:26:29 AM IST - Starting Xvfb...
+Friday 06 September 2024 01:26:29 AM IST - Running stocks.py...
+{'NAM-INDIA': 3549.75, 'NTPC': 2821.0, 'PNB': 4863.3, 'IRFC': 3470.0, 'HAL': 9576.4, 'TATAMOTORS': 3206.1, 'TATATECH': 32292.0, 'total': 59778.55}
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 125, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 123, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Friday 06 September 2024 01:33:02 AM IST - Starting Xvfb...
+Friday 06 September 2024 01:33:02 AM IST - Running stocks.py...
+{'NAM-INDIA': 3549.75, 'NTPC': 2821.0, 'PNB': 4863.3, 'IRFC': 3470.0, 'HAL': 9576.4, 'TATAMOTORS': 3206.1, 'TATATECH': 32292.0, 'total': 59778.55}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Friday 06 September 2024 02:21:31 AM IST - stocks.py completed.
+Friday 06 September 2024 11:15:01 AM IST - Starting Xvfb...
+Friday 06 September 2024 11:15:01 AM IST - Running stocks.py...
+Friday 06 September 2024 12:15:01 PM IST - Starting Xvfb...
+Friday 06 September 2024 12:15:01 PM IST - Running stocks.py...
+Friday 06 September 2024 01:15:01 PM IST - Starting Xvfb...
+Friday 06 September 2024 01:15:01 PM IST - Running stocks.py...
+Friday 06 September 2024 02:15:01 PM IST - Starting Xvfb...
+Friday 06 September 2024 02:15:01 PM IST - Running stocks.py...
+{'NAM-INDIA': 3549.75, 'NTPC': 2821.0, 'PNB': 4863.3, 'IRFC': 3470.0, 'HAL': 9576.4, 'TATAMOTORS': 3206.1, 'TATATECH': 32292.0, 'total': 59778.55}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Friday 06 September 2024 02:16:57 PM IST - stocks.py completed.
+{'NAM-INDIA': 3549.75, 'NTPC': 2821.0, 'PNB': 4863.3, 'IRFC': 3470.0, 'HAL': 9576.4, 'TATAMOTORS': 3206.1, 'TATATECH': 32292.0, 'total': 59778.55}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Friday 06 September 2024 02:16:58 PM IST - stocks.py completed.
+{'NAM-INDIA': 3549.75, 'NTPC': 2821.0, 'PNB': 4863.3, 'IRFC': 3470.0, 'HAL': 9576.4, 'TATAMOTORS': 3206.1, 'TATATECH': 32292.0, 'total': 59778.55}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Friday 06 September 2024 02:17:03 PM IST - stocks.py completed.
+Friday 06 September 2024 03:41:57 PM IST - Starting Xvfb...
+Friday 06 September 2024 03:41:57 PM IST - Running stocks.py...
+{'NAM-INDIA': 3549.75, 'NTPC': 2821.0, 'PNB': 4863.3, 'IRFC': 3470.0, 'HAL': 9576.4, 'TATAMOTORS': 3206.1, 'TATATECH': 32292.0, 'total': 59778.55}
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 383, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1017, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7743b49d0e80>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /finance/quote/NAM-INDIA:NSE (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7743b49d0e80>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 26, in <module>
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /finance/quote/NAM-INDIA:NSE (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7743b49d0e80>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Friday 06 September 2024 03:41:57 PM IST - stocks.py completed.
+Friday 06 September 2024 09:17:12 PM IST - Starting Xvfb...
+Friday 06 September 2024 09:17:12 PM IST - Running stocks.py...
+{'NAM-INDIA': 3549.75, 'NTPC': 2821.0, 'PNB': 4863.3, 'IRFC': 3470.0, 'HAL': 9576.4, 'TATAMOTORS': 3206.1, 'TATATECH': 32292.0, 'total': 59778.55}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Saturday 07 September 2024 02:16:19 AM IST - stocks.py completed.
+{'NAM-INDIA': 3549.75, 'NTPC': 2821.0, 'PNB': 4863.3, 'IRFC': 3470.0, 'HAL': 9576.4, 'TATAMOTORS': 3206.1, 'TATATECH': 32292.0, 'total': 59778.55}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Saturday 07 September 2024 02:16:21 AM IST - stocks.py completed.
+Saturday 07 September 2024 02:31:01 PM IST - Starting Xvfb...
+Saturday 07 September 2024 02:31:01 PM IST - Running stocks.py...
+{'NAM-INDIA': 3549.75, 'NTPC': 2821.0, 'PNB': 4863.3, 'IRFC': 3470.0, 'HAL': 9576.4, 'TATAMOTORS': 3206.1, 'TATATECH': 32292.0, 'total': 59778.55}
+Current time is not later than 3:15 PM. Dictionary not saved.
+Saturday 07 September 2024 02:45:11 PM IST - stocks.py completed.
+Saturday 07 September 2024 02:45:20 PM IST - Starting Xvfb...
+Saturday 07 September 2024 02:45:20 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Saturday 07 September 2024 02:46:16 PM IST - stocks.py completed.
+Saturday 07 September 2024 02:47:55 PM IST - Starting Xvfb...
+Saturday 07 September 2024 02:47:55 PM IST - Running stocks.py...
+Saturday 07 September 2024 03:30:01 PM IST - Starting Xvfb...
+Saturday 07 September 2024 03:30:01 PM IST - Running stocks.py...
+Dictionary saved to file.
+Saturday 07 September 2024 04:03:56 PM IST - stocks.py completed.
+Dictionary saved to file.
+Saturday 07 September 2024 04:04:00 PM IST - stocks.py completed.
+Saturday 07 September 2024 06:32:25 PM IST - Starting Xvfb...
+Saturday 07 September 2024 06:32:25 PM IST - Running stocks.py...
+Sunday 08 September 2024 01:01:48 AM IST - Starting Xvfb...
+Sunday 08 September 2024 01:01:48 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 16, in <module>
+    loaded_portfolio_dict = loaded_dict['portfolio']
+KeyError: 'portfolio'
+Sunday 08 September 2024 01:01:49 AM IST - stocks.py completed.
+Sunday 08 September 2024 01:08:11 AM IST - Starting Xvfb...
+Sunday 08 September 2024 01:08:11 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 01:36:19 AM IST - stocks.py completed.
+Sunday 08 September 2024 01:36:42 AM IST - Starting Xvfb...
+Sunday 08 September 2024 01:36:42 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 01:43:49 AM IST - stocks.py completed.
+Sunday 08 September 2024 01:43:53 AM IST - Starting Xvfb...
+Sunday 08 September 2024 01:43:53 AM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 01:48:32 AM IST - stocks.py completed.
+Sunday 08 September 2024 01:52:46 AM IST - Starting Xvfb...
+Sunday 08 September 2024 01:52:46 AM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 01:55:57 AM IST - stocks.py completed.
+Sunday 08 September 2024 01:58:28 AM IST - Starting Xvfb...
+Sunday 08 September 2024 01:58:28 AM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 02:02:08 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:04:08 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:04:08 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 50, in <module>
+    time.sleep(5)
+KeyboardInterrupt
+Sunday 08 September 2024 02:04:21 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:04:21 AM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 02:06:01 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:08:13 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:08:13 AM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 02:16:04 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:16:08 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:16:08 AM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 02:18:11 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:18:15 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:18:15 AM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 02:18:45 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:18:49 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:18:49 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 196, in <module>
+    comparison_time = now.replace(hour=0, minute=15, second=0, microsecond=0)
+  File "/home/vikram/Desktop/stocks.py", line 163, in create_table
+    for ticker, value in d.items():
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 02:23:08 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:23:08 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 192, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 159, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 02:24:40 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:24:40 AM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 02:26:58 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:27:03 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:27:03 AM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 02:38:37 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:38:40 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:38:40 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 02:42:06 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:42:10 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:42:10 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 02:43:17 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:43:20 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:43:20 AM IST - Running stocks.py...
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'Total'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'Total'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATATECH'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATATECH'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATATECH'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATAMOTORS'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATAMOTORS'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATAMOTORS'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATAMOTORS'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATAMOTORS'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATAMOTORS'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'HAL'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'HAL'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'PNB'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'PNB'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'PNB'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'PNB'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'PNB'
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 02:44:16 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:44:21 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:44:21 AM IST - Running stocks.py...
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'Total'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATAMOTORS'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'TATAMOTORS'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 158, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 207, in open_link
+    url_index = f"https://finance.yahoo.com/quote/^{reverse_index_mapper[ticker]}/"
+KeyError: 'Total'
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 02:47:04 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:47:08 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:47:08 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 02:48:15 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:48:18 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:48:18 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 02:55:02 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:55:05 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:55:05 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 02:55:27 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:55:28 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:55:28 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 02:55:44 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:55:46 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:55:46 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 218, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 166, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 02:56:28 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:56:28 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 02:56:51 AM IST - stocks.py completed.
+Sunday 08 September 2024 02:56:53 AM IST - Starting Xvfb...
+Sunday 08 September 2024 02:56:53 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 218, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 166, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 03:26:42 AM IST - Starting Xvfb...
+Sunday 08 September 2024 03:26:42 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 12, in <module>
+    from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+  File "/home/vikram/.local/lib/python3.10/site-packages/matplotlib/backends/backend_tkagg.py", line 1, in <module>
+    from . import _backend_tk
+  File "/home/vikram/.local/lib/python3.10/site-packages/matplotlib/backends/_backend_tk.py", line 16, in <module>
+    from PIL import Image, ImageTk
+ImportError: cannot import name 'ImageTk' from 'PIL' (/usr/lib/python3/dist-packages/PIL/__init__.py)
+Sunday 08 September 2024 03:26:43 AM IST - stocks.py completed.
+Sunday 08 September 2024 03:31:16 AM IST - Starting Xvfb...
+Sunday 08 September 2024 03:31:16 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 264, in <module>
+  File "/home/vikram/Desktop/stocks.py", line 191, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 03:33:24 AM IST - Starting Xvfb...
+Sunday 08 September 2024 03:33:24 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 03:35:26 AM IST - stocks.py completed.
+Sunday 08 September 2024 03:36:00 AM IST - Starting Xvfb...
+Sunday 08 September 2024 03:36:00 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 265, in <module>
+  File "/home/vikram/Desktop/stocks.py", line 190, in create_table
+    # Run the Tkinter event loop
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 03:37:12 AM IST - Starting Xvfb...
+Sunday 08 September 2024 03:37:12 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 03:37:17 AM IST - stocks.py completed.
+Sunday 08 September 2024 03:47:21 AM IST - Starting Xvfb...
+Sunday 08 September 2024 03:47:21 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 269, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 193, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 03:49:48 AM IST - Starting Xvfb...
+Sunday 08 September 2024 03:49:48 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 269, in <module>
+    if tab == "portfolio":
+  File "/home/vikram/Desktop/stocks.py", line 193, in create_table
+    create_index(tree2)
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 03:52:01 AM IST - Starting Xvfb...
+Sunday 08 September 2024 03:52:01 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 03:54:26 AM IST - stocks.py completed.
+Sunday 08 September 2024 03:54:32 AM IST - Starting Xvfb...
+Sunday 08 September 2024 03:54:32 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 03:55:12 AM IST - stocks.py completed.
+Sunday 08 September 2024 03:57:50 AM IST - Starting Xvfb...
+Sunday 08 September 2024 03:57:50 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 03:58:08 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:01:30 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:01:30 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:02:03 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:06:42 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:06:42 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:09:28 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:09:30 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:09:30 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:12:23 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:12:24 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:12:24 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:15:21 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:15:23 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:15:23 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:18:41 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:18:43 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:18:43 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:24:07 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:24:09 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:24:09 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:28:12 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:28:14 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:28:14 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:28:52 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:28:55 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:28:55 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:31:03 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:31:06 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:31:06 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:31:48 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:31:51 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:31:51 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:34:23 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:34:38 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:34:38 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 325, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 160, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 298, in create_day_change_tab
+    plot_graph(canvas_graph, values_list[count])
+  File "/home/vikram/Desktop/stocks.py", line 31, in plot_graph
+    ax.set_xlim(-0.5, len(values) - 0.5)  # Adds margin to the left side
+NameError: name 'values' is not defined
+Sunday 08 September 2024 04:34:38 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:34:43 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:34:43 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 325, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 160, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 298, in create_day_change_tab
+    plot_graph(canvas_graph, values_list[count])
+  File "/home/vikram/Desktop/stocks.py", line 31, in plot_graph
+    ax.set_xlim(-0.5, len(values) - 0.5)  # Adds margin to the left side
+NameError: name 'values' is not defined
+Sunday 08 September 2024 04:34:43 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:35:19 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:35:19 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:35:37 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:36:20 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:36:20 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:36:41 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:36:43 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:36:43 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:38:46 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:39:28 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:39:28 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:40:13 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:40:16 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:40:16 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:41:29 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:41:32 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:41:32 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:42:22 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:42:25 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:42:25 AM IST - Running stocks.py...
+/home/vikram/Desktop/stocks.py:28: UserWarning: Attempting to set identical low and high xlims makes transformation singular; automatically expanding.
+  ax.set_xlim(2, len(values_list) - 1)  # Remove extra margin on the left side
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:46:23 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:46:24 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:46:24 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:48:03 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:48:05 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:48:05 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:49:36 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:49:39 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:49:39 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 326, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 212, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 04:50:06 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:50:06 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:51:02 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:51:06 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:51:06 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 326, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 212, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 04:51:36 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:51:36 AM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 326, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 212, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 04:53:36 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:53:36 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:54:00 AM IST - stocks.py completed.
+Sunday 08 September 2024 04:54:15 AM IST - Starting Xvfb...
+Sunday 08 September 2024 04:54:15 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 04:59:42 AM IST - stocks.py completed.
+Sunday 08 September 2024 05:00:22 AM IST - Starting Xvfb...
+Sunday 08 September 2024 05:00:22 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 05:03:20 AM IST - stocks.py completed.
+Sunday 08 September 2024 01:15:01 PM IST - Starting Xvfb...
+Sunday 08 September 2024 01:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Sunday 08 September 2024 01:20:32 PM IST - stocks.py completed.
+Sunday 08 September 2024 01:20:51 PM IST - Starting Xvfb...
+Sunday 08 September 2024 01:20:51 PM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 326, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 212, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 01:30:43 PM IST - Starting Xvfb...
+Sunday 08 September 2024 01:30:43 PM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 81, in <module>
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.10/ssl.py", line 1303, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.10/ssl.py", line 1159, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+Sunday 08 September 2024 01:32:53 PM IST - Starting Xvfb...
+Sunday 08 September 2024 01:32:53 PM IST - Running stocks.py...
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 326, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 212, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Sunday 08 September 2024 01:33:59 PM IST - Starting Xvfb...
+Sunday 08 September 2024 01:33:59 PM IST - Running stocks.py...
+  File "/home/vikram/Desktop/stocks.py", line 100
+    lkndf
+IndentationError: unexpected indent
+Sunday 08 September 2024 01:33:59 PM IST - stocks.py completed.
+Sunday 08 September 2024 01:34:20 PM IST - Starting Xvfb...
+Sunday 08 September 2024 01:34:20 PM IST - Running stocks.py...
+Sunday 08 September 2024 03:38:32 PM IST - Starting Xvfb...
+Sunday 08 September 2024 03:38:32 PM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 03:38:41 PM IST - stocks.py completed.
+Sunday 08 September 2024 03:38:41 PM IST - Starting Xvfb...
+Sunday 08 September 2024 03:38:41 PM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 03:38:44 PM IST - stocks.py completed.
+Sunday 08 September 2024 07:29:35 PM IST - Starting Xvfb...
+Sunday 08 September 2024 07:29:35 PM IST - Running stocks.py...
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 204, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 318, in open_link
+    webbrowser.open(url_portfolio)
+  File "/usr/lib/python3.10/webbrowser.py", line 86, in open
+    if browser.open(url, new, autoraise):
+  File "/usr/lib/python3.10/webbrowser.py", line 275, in open
+    success = self._invoke(args, True, autoraise, url)
+  File "/usr/lib/python3.10/webbrowser.py", line 244, in _invoke
+    rc = p.wait(5)
+  File "/usr/lib/python3.10/subprocess.py", line 1209, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 204, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 318, in open_link
+    webbrowser.open(url_portfolio)
+  File "/usr/lib/python3.10/webbrowser.py", line 86, in open
+    if browser.open(url, new, autoraise):
+  File "/usr/lib/python3.10/webbrowser.py", line 275, in open
+    success = self._invoke(args, True, autoraise, url)
+  File "/usr/lib/python3.10/webbrowser.py", line 244, in _invoke
+    rc = p.wait(5)
+  File "/usr/lib/python3.10/subprocess.py", line 1209, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/subprocess.py", line 1209, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 204, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 318, in open_link
+    webbrowser.open(url_portfolio)
+  File "/usr/lib/python3.10/webbrowser.py", line 86, in open
+    if browser.open(url, new, autoraise):
+  File "/usr/lib/python3.10/webbrowser.py", line 275, in open
+    success = self._invoke(args, True, autoraise, url)
+  File "/usr/lib/python3.10/webbrowser.py", line 244, in _invoke
+    rc = p.wait(5)
+  File "/usr/lib/python3.10/subprocess.py", line 1222, in wait
+    self._wait(timeout=sigint_timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/subprocess.py", line 1209, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 204, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 318, in open_link
+    webbrowser.open(url_portfolio)
+  File "/usr/lib/python3.10/webbrowser.py", line 86, in open
+    if browser.open(url, new, autoraise):
+  File "/usr/lib/python3.10/webbrowser.py", line 275, in open
+    success = self._invoke(args, True, autoraise, url)
+  File "/usr/lib/python3.10/webbrowser.py", line 244, in _invoke
+    rc = p.wait(5)
+  File "/usr/lib/python3.10/subprocess.py", line 1222, in wait
+    self._wait(timeout=sigint_timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+Dictionary saved to file.
+Sunday 08 September 2024 07:29:58 PM IST - stocks.py completed.
+Sunday 08 September 2024 07:30:00 PM IST - Starting Xvfb...
+Sunday 08 September 2024 07:30:00 PM IST - Running stocks.py...
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/subprocess.py", line 1209, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 204, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 318, in open_link
+    webbrowser.open(url_portfolio)
+  File "/usr/lib/python3.10/webbrowser.py", line 86, in open
+    if browser.open(url, new, autoraise):
+  File "/usr/lib/python3.10/webbrowser.py", line 275, in open
+    success = self._invoke(args, True, autoraise, url)
+  File "/usr/lib/python3.10/webbrowser.py", line 244, in _invoke
+    rc = p.wait(5)
+  File "/usr/lib/python3.10/subprocess.py", line 1222, in wait
+    self._wait(timeout=sigint_timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 204, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 318, in open_link
+    webbrowser.open(url_portfolio)
+  File "/usr/lib/python3.10/webbrowser.py", line 86, in open
+    if browser.open(url, new, autoraise):
+  File "/usr/lib/python3.10/webbrowser.py", line 275, in open
+    success = self._invoke(args, True, autoraise, url)
+  File "/usr/lib/python3.10/webbrowser.py", line 244, in _invoke
+    rc = p.wait(5)
+  File "/usr/lib/python3.10/subprocess.py", line 1209, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/subprocess.py", line 1209, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "/home/vikram/Desktop/stocks.py", line 204, in <lambda>
+    tree.bind("<Double-1>", lambda event: open_link(event, "portfolio"))
+  File "/home/vikram/Desktop/stocks.py", line 318, in open_link
+    webbrowser.open(url_portfolio)
+  File "/usr/lib/python3.10/webbrowser.py", line 86, in open
+    if browser.open(url, new, autoraise):
+  File "/usr/lib/python3.10/webbrowser.py", line 275, in open
+    success = self._invoke(args, True, autoraise, url)
+  File "/usr/lib/python3.10/webbrowser.py", line 244, in _invoke
+    rc = p.wait(5)
+  File "/usr/lib/python3.10/subprocess.py", line 1222, in wait
+    self._wait(timeout=sigint_timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1953, in _wait
+    time.sleep(delay)
+KeyboardInterrupt
+Sunday 08 September 2024 07:32:36 PM IST - Starting Xvfb...
+Sunday 08 September 2024 07:32:36 PM IST - Running stocks.py...
+Dictionary saved to file.
+Sunday 08 September 2024 07:33:27 PM IST - stocks.py completed.
+Sunday 08 September 2024 09:42:36 PM IST - Starting Xvfb...
+Sunday 08 September 2024 09:42:36 PM IST - Running stocks.py...
+Monday 09 September 2024 01:20:36 AM IST - Starting Xvfb...
+Monday 09 September 2024 01:20:36 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 339, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 176, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 313, in create_day_change_tab
+    plot_graph(canvas_graph, historical_data[ticker])
+  File "/home/vikram/Desktop/stocks.py", line 37, in plot_graph
+    ax.set_ylim(min(values_list) - 1, max(values_list) + 1)  # Y-axis limits with padding
+ValueError: min() arg is an empty sequence
+Monday 09 September 2024 01:20:37 AM IST - stocks.py completed.
+Monday 09 September 2024 01:23:25 AM IST - Starting Xvfb...
+Monday 09 September 2024 01:23:25 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 340, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 227, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 01:24:48 AM IST - stocks.py completed.
+Monday 09 September 2024 01:24:50 AM IST - Starting Xvfb...
+Monday 09 September 2024 01:24:50 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 01:26:05 AM IST - stocks.py completed.
+Monday 09 September 2024 01:26:07 AM IST - Starting Xvfb...
+Monday 09 September 2024 01:26:07 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 341, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 227, in create_table
+    root.mainloop()
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Monday 09 September 2024 01:32:03 AM IST - Starting Xvfb...
+Monday 09 September 2024 01:32:03 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 01:41:37 AM IST - stocks.py completed.
+Monday 09 September 2024 01:41:40 AM IST - Starting Xvfb...
+Monday 09 September 2024 01:41:40 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 352, in <module>
+    
+  File "/home/vikram/Desktop/stocks.py", line 236, in create_table
+    
+  File "/usr/lib/python3.10/tkinter/__init__.py", line 1458, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+Monday 09 September 2024 01:48:22 AM IST - Starting Xvfb...
+Monday 09 September 2024 01:48:22 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 01:57:25 AM IST - stocks.py completed.
+Monday 09 September 2024 01:57:27 AM IST - Starting Xvfb...
+Monday 09 September 2024 01:57:27 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 01:58:23 AM IST - stocks.py completed.
+Monday 09 September 2024 01:58:25 AM IST - Starting Xvfb...
+Monday 09 September 2024 01:58:25 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:00:03 AM IST - stocks.py completed.
+Monday 09 September 2024 02:00:07 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:00:07 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:00:43 AM IST - stocks.py completed.
+Monday 09 September 2024 02:00:47 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:00:47 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:02:11 AM IST - stocks.py completed.
+Monday 09 September 2024 02:02:12 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:02:12 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+3549.75
+2821.0
+4863.3
+3470.0
+9576.4
+3206.1
+32292.0
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:02:57 AM IST - stocks.py completed.
+Monday 09 September 2024 02:06:33 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:06:33 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+3549.75
+2821.0
+4863.3
+3470.0
+9576.4
+3206.1
+32292.0
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:10:27 AM IST - stocks.py completed.
+Monday 09 September 2024 02:10:30 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:10:30 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:13:36 AM IST - stocks.py completed.
+Monday 09 September 2024 02:13:39 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:13:39 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:14:39 AM IST - stocks.py completed.
+Monday 09 September 2024 02:14:40 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:14:40 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:26:39 AM IST - stocks.py completed.
+Monday 09 September 2024 02:26:41 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:26:41 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:28:08 AM IST - stocks.py completed.
+Monday 09 September 2024 02:28:10 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:28:10 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:29:38 AM IST - stocks.py completed.
+Monday 09 September 2024 02:29:45 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:29:45 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:33:28 AM IST - stocks.py completed.
+Monday 09 September 2024 02:33:32 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:33:32 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:36:45 AM IST - stocks.py completed.
+Monday 09 September 2024 02:36:49 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:36:49 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:37:30 AM IST - stocks.py completed.
+Monday 09 September 2024 02:37:42 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:37:42 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:43:31 AM IST - stocks.py completed.
+Monday 09 September 2024 02:43:34 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:43:34 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:44:44 AM IST - stocks.py completed.
+Monday 09 September 2024 02:45:12 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:45:12 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:45:51 AM IST - stocks.py completed.
+Monday 09 September 2024 02:45:52 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:45:52 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:46:16 AM IST - stocks.py completed.
+Monday 09 September 2024 02:46:18 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:46:18 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:46:27 AM IST - stocks.py completed.
+Monday 09 September 2024 02:46:31 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:46:31 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:50:57 AM IST - stocks.py completed.
+Monday 09 September 2024 02:51:31 AM IST - Starting Xvfb...
+Monday 09 September 2024 02:51:31 AM IST - Running stocks.py...
+Closing Price saved to file.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Monday 09 September 2024 02:51:43 AM IST - stocks.py completed.
+Monday 09 September 2024 12:15:01 PM IST - Starting Xvfb...
+Monday 09 September 2024 12:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 376, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 202, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 349, in create_day_change_tab
+    plot_graph(canvas_graph, historical_data[ticker], loaded_closing_dict[ticker])
+  File "/home/vikram/Desktop/stocks.py", line 59, in plot_graph
+    y_min = min(adjusted_values)
+ValueError: min() arg is an empty sequence
+Monday 09 September 2024 12:15:01 PM IST - stocks.py completed.
+Monday 09 September 2024 12:50:54 PM IST - Starting Xvfb...
+Monday 09 September 2024 12:50:54 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 376, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 202, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 349, in create_day_change_tab
+    plot_graph(canvas_graph, historical_data[ticker], loaded_closing_dict[ticker])
+  File "/home/vikram/Desktop/stocks.py", line 59, in plot_graph
+    y_min = min(adjusted_values)
+ValueError: min() arg is an empty sequence
+Monday 09 September 2024 12:50:55 PM IST - stocks.py completed.
+Monday 09 September 2024 01:15:01 PM IST - Starting Xvfb...
+Monday 09 September 2024 01:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 376, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 202, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 349, in create_day_change_tab
+    plot_graph(canvas_graph, historical_data[ticker], loaded_closing_dict[ticker])
+  File "/home/vikram/Desktop/stocks.py", line 59, in plot_graph
+    y_min = min(adjusted_values)
+ValueError: min() arg is an empty sequence
+Monday 09 September 2024 01:15:02 PM IST - stocks.py completed.
+Monday 09 September 2024 02:15:01 PM IST - Starting Xvfb...
+Monday 09 September 2024 02:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 376, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 202, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 349, in create_day_change_tab
+    plot_graph(canvas_graph, historical_data[ticker], loaded_closing_dict[ticker])
+  File "/home/vikram/Desktop/stocks.py", line 59, in plot_graph
+    y_min = min(adjusted_values)
+ValueError: min() arg is an empty sequence
+Monday 09 September 2024 02:15:02 PM IST - stocks.py completed.
+Monday 09 September 2024 03:30:01 PM IST - Starting Xvfb...
+Monday 09 September 2024 03:30:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 376, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 202, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 349, in create_day_change_tab
+    plot_graph(canvas_graph, historical_data[ticker], loaded_closing_dict[ticker])
+  File "/home/vikram/Desktop/stocks.py", line 59, in plot_graph
+    y_min = min(adjusted_values)
+ValueError: min() arg is an empty sequence
+Monday 09 September 2024 03:30:03 PM IST - stocks.py completed.
+Tuesday 10 September 2024 12:15:01 PM IST - Starting Xvfb...
+Tuesday 10 September 2024 12:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 376, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 202, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 349, in create_day_change_tab
+    plot_graph(canvas_graph, historical_data[ticker], loaded_closing_dict[ticker])
+  File "/home/vikram/Desktop/stocks.py", line 59, in plot_graph
+    y_min = min(adjusted_values)
+ValueError: min() arg is an empty sequence
+Tuesday 10 September 2024 12:15:02 PM IST - stocks.py completed.
+Tuesday 10 September 2024 02:09:25 PM IST - Starting Xvfb...
+Tuesday 10 September 2024 02:09:25 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 376, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 202, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 349, in create_day_change_tab
+    plot_graph(canvas_graph, historical_data[ticker], loaded_closing_dict[ticker])
+  File "/home/vikram/Desktop/stocks.py", line 59, in plot_graph
+    y_min = min(adjusted_values)
+ValueError: min() arg is an empty sequence
+Tuesday 10 September 2024 02:09:26 PM IST - stocks.py completed.
+Tuesday 10 September 2024 02:15:01 PM IST - Starting Xvfb...
+Tuesday 10 September 2024 02:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 376, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 202, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 349, in create_day_change_tab
+    plot_graph(canvas_graph, historical_data[ticker], loaded_closing_dict[ticker])
+  File "/home/vikram/Desktop/stocks.py", line 59, in plot_graph
+    y_min = min(adjusted_values)
+ValueError: min() arg is an empty sequence
+Tuesday 10 September 2024 02:15:01 PM IST - stocks.py completed.
+Tuesday 10 September 2024 03:30:01 PM IST - Starting Xvfb...
+Tuesday 10 September 2024 03:30:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 376, in <module>
+    create_table()
+  File "/home/vikram/Desktop/stocks.py", line 202, in create_table
+    create_day_change_tab(notebook)
+  File "/home/vikram/Desktop/stocks.py", line 349, in create_day_change_tab
+    plot_graph(canvas_graph, historical_data[ticker], loaded_closing_dict[ticker])
+  File "/home/vikram/Desktop/stocks.py", line 59, in plot_graph
+    y_min = min(adjusted_values)
+ValueError: min() arg is an empty sequence
+Tuesday 10 September 2024 03:30:02 PM IST - stocks.py completed.
+Tuesday 10 September 2024 03:31:49 PM IST - Starting Xvfb...
+Tuesday 10 September 2024 03:31:49 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Closing Price saved to file.
+Tuesday 10 September 2024 03:34:06 PM IST - stocks.py completed.
+Wednesday 11 September 2024 11:15:01 AM IST - Starting Xvfb...
+Wednesday 11 September 2024 11:15:01 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Wednesday 11 September 2024 11:17:30 AM IST - stocks.py completed.
+Wednesday 11 September 2024 12:15:01 PM IST - Starting Xvfb...
+Wednesday 11 September 2024 12:15:01 PM IST - Running stocks.py...
+Wednesday 11 September 2024 01:15:01 PM IST - Starting Xvfb...
+Wednesday 11 September 2024 01:15:01 PM IST - Running stocks.py...
+Wednesday 11 September 2024 02:15:01 PM IST - Starting Xvfb...
+Wednesday 11 September 2024 02:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Wednesday 11 September 2024 02:37:45 PM IST - stocks.py completed.
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Wednesday 11 September 2024 02:37:56 PM IST - stocks.py completed.
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Wednesday 11 September 2024 02:38:35 PM IST - stocks.py completed.
+Wednesday 11 September 2024 03:30:01 PM IST - Starting Xvfb...
+Wednesday 11 September 2024 03:30:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Closing Price saved to file.
+Wednesday 11 September 2024 03:32:58 PM IST - stocks.py completed.
+Thursday 12 September 2024 11:15:01 AM IST - Starting Xvfb...
+Thursday 12 September 2024 11:15:01 AM IST - Running stocks.py...
+Thursday 12 September 2024 12:15:01 PM IST - Starting Xvfb...
+Thursday 12 September 2024 12:15:01 PM IST - Running stocks.py...
+Thursday 12 September 2024 01:15:01 PM IST - Starting Xvfb...
+Thursday 12 September 2024 01:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Thursday 12 September 2024 01:48:31 PM IST - stocks.py completed.
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Thursday 12 September 2024 01:54:37 PM IST - stocks.py completed.
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Thursday 12 September 2024 01:54:42 PM IST - stocks.py completed.
+Thursday 12 September 2024 02:15:01 PM IST - Starting Xvfb...
+Thursday 12 September 2024 02:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 383, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1017, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7ecdaf6f8f40>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /finance/quote/NAM-INDIA:NSE (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ecdaf6f8f40>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 121, in <module>
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /finance/quote/NAM-INDIA:NSE (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ecdaf6f8f40>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+Thursday 12 September 2024 02:17:15 PM IST - stocks.py completed.
+Thursday 12 September 2024 03:30:01 PM IST - Starting Xvfb...
+Thursday 12 September 2024 03:30:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Closing Price saved to file.
+Thursday 12 September 2024 03:34:23 PM IST - stocks.py completed.
+Friday 13 September 2024 11:15:01 AM IST - Starting Xvfb...
+Friday 13 September 2024 11:15:01 AM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Friday 13 September 2024 11:24:30 AM IST - stocks.py completed.
+Friday 13 September 2024 12:15:01 PM IST - Starting Xvfb...
+Friday 13 September 2024 12:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Friday 13 September 2024 12:18:28 PM IST - stocks.py completed.
+Friday 13 September 2024 01:15:01 PM IST - Starting Xvfb...
+Friday 13 September 2024 01:15:01 PM IST - Running stocks.py...
+Friday 13 September 2024 02:15:01 PM IST - Starting Xvfb...
+Friday 13 September 2024 02:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Friday 13 September 2024 02:40:14 PM IST - stocks.py completed.
+Current time is not later than 3:15 PM. Dictionary not saved.
+day historical saved to file.
+Current time is not later than 3:15 PM. Dictionary not saved.
+Friday 13 September 2024 02:40:23 PM IST - stocks.py completed.
+Saturday 14 September 2024 02:15:01 PM IST - Starting Xvfb...
+Saturday 14 September 2024 02:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 137, in <module>
+    val = soup.find(class_= class1).text
+AttributeError: 'NoneType' object has no attribute 'text'
+Saturday 14 September 2024 02:15:46 PM IST - stocks.py completed.
+Sunday 15 September 2024 02:15:01 PM IST - Starting Xvfb...
+Sunday 15 September 2024 02:15:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 137, in <module>
+    val = soup.find(class_= class1).text
+AttributeError: 'NoneType' object has no attribute 'text'
+Sunday 15 September 2024 02:15:50 PM IST - stocks.py completed.
+Sunday 15 September 2024 03:30:01 PM IST - Starting Xvfb...
+Sunday 15 September 2024 03:30:01 PM IST - Running stocks.py...
+Current time is not later than 3:15 PM. Dictionary not saved.
+Traceback (most recent call last):
+  File "/home/vikram/Desktop/stocks.py", line 137, in <module>
+    val = soup.find(class_= class1).text
+AttributeError: 'NoneType' object has no attribute 'text'
+Sunday 15 September 2024 03:30:47 PM IST - stocks.py completed.
